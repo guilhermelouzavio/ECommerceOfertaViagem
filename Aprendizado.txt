@@ -1,0 +1,4 @@
+Aplicar testes de integração de banco de dados em projetos reais;
+Utilizar boas práticas de escrita de testes e de reaproveitamento de recursos;
+Aplicar práticas de testes de integração com bibliotecas bastante conhecidas no mercado;
+Aplicar soluções para casos bem comuns no dia a dia de testes de integração com banco de dados.
